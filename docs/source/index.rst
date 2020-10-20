@@ -9,6 +9,11 @@ Welcome to EmmeCiLab's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+.. toctree::
+   :caption: Example
+
+   Example <example>
 
 
 
