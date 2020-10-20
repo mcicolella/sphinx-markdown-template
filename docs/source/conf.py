@@ -170,9 +170,9 @@ epub_title = project
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
-# Markdown support
 
-from recommonmark.parser import CommonMarkParser
+# Markdown support
+extensions = ['recommonmark']
 
 source_parsers = {
 	'.md': CommonMarkParser,
