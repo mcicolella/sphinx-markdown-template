@@ -13,7 +13,7 @@ Welcome to EmmeCiLab's documentation!
 .. toctree::
    :caption: Example
 
-   Example <example>
+   example.md
 
 
 
