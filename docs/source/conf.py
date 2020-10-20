@@ -175,5 +175,5 @@ epub_exclude_files = ['search.html']
 extensions = ['recommonmark']
 
 source_parsers = {
-	'.md': CommonMarkParser,
+	'.md': 'recommonmark.parser.CommonMarkParser'
 }
